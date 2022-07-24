@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "descricao": "ABACATE MANTEIGA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "2",
+        "descricao": "ABACAXI PéROLA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "3",
+        "descricao": "ABOBORA CABOTIA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "4",
+        "descricao": "ABOBRINHA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "5",
+        "descricao": "ACELGA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "6",
+        "descricao": "ACHOCOLATADO EM PÓ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "7",
+        "descricao": "AÇUCAR CRISTAL",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "8",
+        "descricao": "AÇUCAR MASCAVO ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "9",
+        "descricao": "ADOCANTE EM PÓ DE SUCRALOSE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "10",
+        "descricao": "ALFACE ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "11",
+        "descricao": "ALHO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "12",
+        "descricao": "ALIMENTO COM SOJA ORIGINAL",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "13",
+        "descricao": "AMIDO DE MILHO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "15",
+        "descricao": "ARROZ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "16",
+        "descricao": "AVEIA EM FLOCOS FINOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "17",
+        "descricao": "BANANA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "18",
+        "descricao": "BATATA DOCE ROXA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "19",
+        "descricao": "BATATA INGLESA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "20",
+        "descricao": "BEBIDA LACTEA ",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "21",
+        "descricao": "BERINJELA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "22",
+        "descricao": "BETERRABA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "23",
+        "descricao": "BISCOITO AMANTEIGADO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "24",
+        "descricao": "BISCOITO DE LEITE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "25",
+        "descricao": "BISCOITO DE MAIZENA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "26",
+        "descricao": "BISCOITO INTEGRAL",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "27",
+        "descricao": "BISCOITO MARIA CHOCOLATE ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "28",
+        "descricao": "BISCOITO SALGADO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "29",
+        "descricao": "BOLACHA CASEIRA DIVERSAS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "30",
+        "descricao": "CANELA EM PO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "31",
+        "descricao": "CANJICA DE MILHO BRANCA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "32",
+        "descricao": "CANJIQUINHA ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "33",
+        "descricao": "CARNE BOVINA MAGRA IQF (cubos)",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "34",
+        "descricao": "CARNE DE BOI TIPO PALETA ISCA(TRADICIONAL)",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "35",
+        "descricao": "CARNE DE SOL",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "36",
+        "descricao": "CARNE MOIDA PALETA (IQF)",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "37",
+        "descricao": "CEBOLA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "38",
+        "descricao": "CEBOLINHA VERDE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "39",
+        "descricao": "CENOURA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "40",
+        "descricao": "CEREAL CHOCOLATE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "41",
+        "descricao": "CEREAL FLOCOS DE MILHO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "42",
+        "descricao": "CHA MATE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "43",
+        "descricao": "CHUCHU",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "44",
+        "descricao": "COLORAU",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "45",
+        "descricao": "COUVE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "46",
+        "descricao": "CRAVO DA INDIA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "47",
+        "descricao": "CREME DE BRIGADEIRO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "48",
+        "descricao": "CREME DE CHOCOLATE BRANCO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "49",
+        "descricao": "DOCE DE ABOBORA PASTOSO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "50",
+        "descricao": "DOCE DE LEITE PASTOSO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "51",
+        "descricao": "DUETO EVILHA E MILHO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "52",
+        "descricao": "ERVILHA EM CONSERVA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "53",
+        "descricao": "FARINHA DE MANDIOCA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "54",
+        "descricao": "FARINHA DE MANDIOCA TORRADA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "55",
+        "descricao": "FARINHA DE MILHO BIJU",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "56",
+        "descricao": "FARINHA DE ROSCA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "57",
+        "descricao": "FARINHA DE TRIGO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "58",
+        "descricao": "FEIJAO CARIOQUINHA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "59",
+        "descricao": "FERMENTO EM PO QUIMICO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "60",
+        "descricao": "FILE DE FRANGO SEM OSSO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "61",
+        "descricao": "FILE DE FRANGO TIPO SASSAMI",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "62",
+        "descricao": "FORMULA INFANTIL 1° SEMESTRE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "63",
+        "descricao": "FORMULA INFANTIL 2º SEMESTRE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "64",
+        "descricao": "FORMULA SEM LACTOSE(proexpert SL)",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "65",
+        "descricao": "FRANGO CONGELADO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "66",
+        "descricao": "FUBA FINO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "67",
+        "descricao": "GELATINA EM PO SABORES DIVERSOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "68",
+        "descricao": "GELATINA SEM SABOR",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "69",
+        "descricao": "GOIABA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "70",
+        "descricao": "HAMBURGUER DE CARNE BOVINA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "71",
+        "descricao": "LARANJA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "72",
+        "descricao": "LEITE DESNATADO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "73",
+        "descricao": "LEITE EM PO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "74",
+        "descricao": "LEITE PASTEURIZADO ",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "75",
+        "descricao": "LIMAO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "76",
+        "descricao": "LOMBO DE PORCO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "77",
+        "descricao": "MACA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "78",
+        "descricao": "MACARRAO DE LETRINHAS DE SEMOLA COM OVOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "79",
+        "descricao": "MACARRÃO PADRE-NOSSO DE SEMOLA COM OVOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "80",
+        "descricao": "MACARRAO PARAFUSO DE SEMOLA COM OVOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "81",
+        "descricao": "MAIONESE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "82",
+        "descricao": "MAMAO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "83",
+        "descricao": "MANDIOCA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "84",
+        "descricao": "MANDIOQUINHA ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "85",
+        "descricao": "MARGARINA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "86",
+        "descricao": "MASSA DE SEMOLA PARA LASANHA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "87",
+        "descricao": "MASSA DE SEMOLA TIPO ARGOLINHA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "88",
+        "descricao": "MASSA DE SEMOLA TIPO ESPAGUETE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "89",
+        "descricao": "MEL DE ABELHA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "90",
+        "descricao": "MELANCIA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "91",
+        "descricao": "MILHO VERDE EM CONSERVA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "92",
+        "descricao": "MILHO VERDE EM ESPIGA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "93",
+        "descricao": "MINGAU DE ARROZ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "94",
+        "descricao": "MINGAU DE MILHO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "95",
+        "descricao": "ÓLEO DE SOJA",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "96",
+        "descricao": "OREGANO DESIDRATADO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "97",
+        "descricao": "OVOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "98",
+        "descricao": "PAO FRANCES",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "99",
+        "descricao": "PAO TIPO DE LEITE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "100",
+        "descricao": "PEPINO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "101",
+        "descricao": "PIMENTAO VERDE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "103",
+        "descricao": "POLPA DE ABACATE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "104",
+        "descricao": "POLPA DE PEIXE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "105",
+        "descricao": "PROTEINA TEXTURIZADA CLARA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "106",
+        "descricao": "PROTEINA TEXTURIZADA ESCURA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "107",
+        "descricao": "QUEIJO MUSSARELA ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "108",
+        "descricao": "QUIABO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "109",
+        "descricao": "REPOLHO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "110",
+        "descricao": "REPOLHO ROXO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "111",
+        "descricao": "ROSCA DE COCO SEM LACTOSE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "112",
+        "descricao": "SAGU",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "113",
+        "descricao": "SAL",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "114",
+        "descricao": "SALSA FRESCA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "115",
+        "descricao": "SALSICHA CONGELADA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "116",
+        "descricao": "SOJA NAO TRANGENICA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "117",
+        "descricao": "SUCO ACEROLA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "118",
+        "descricao": "SUCO DE ABACAXI",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "119",
+        "descricao": "SUCO DE CAJU",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "120",
+        "descricao": "SUCO DE LARANJA",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "121",
+        "descricao": "SUCO DE MARACUJA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "122",
+        "descricao": "SUCO GOIABA",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "123",
+        "descricao": "SUCO LIQ. TANGERINA",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "124",
+        "descricao": "SUCO LIQ. UVA",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "125",
+        "descricao": "SUCO MANGA",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "126",
+        "descricao": "TOMATE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "127",
+        "descricao": "TRIGO PARA QUIBE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "128",
+        "descricao": "VINAGRE",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "129",
+        "descricao": "XAROPE DE GROSELHA",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "139",
+        "descricao": "MANGA TOMMY",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "146",
+        "descricao": "PAO HAMBURGUER",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "147",
+        "descricao": "PAO DOCE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "148",
+        "descricao": "PAO DE FORMA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "149",
+        "descricao": "POLPA DE FRUTA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "150",
+        "descricao": "PONCÃ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "151",
+        "descricao": "DOCE DE BANANA PASTOSO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "156",
+        "descricao": "ACHOCOLATADO EM PO DIET",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "157",
+        "descricao": "IOGURTE DE FRUTAS DIET",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "158",
+        "descricao": "IOGURTE DE SOJA",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "159",
+        "descricao": "DOCE DE LEITE DIET",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "160",
+        "descricao": "GELATINA EM PO ZERO AÇUCAR",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "161",
+        "descricao": "DOCE DE FRUTAS DIET",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "162",
+        "descricao": "EXTRATO DE SOJA  EM PÓ (LEITE )",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "163",
+        "descricao": "ARROZ INTEGRAL",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "164",
+        "descricao": "FORMULA INFANTIL SOJA 1",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "166",
+        "descricao": "BEBIDA A BASE DE SOJA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "168",
+        "descricao": "Vagem",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "169",
+        "descricao": "Espinafre",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "171",
+        "descricao": "BISCOITO MARIA SEM LACTOSE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "172",
+        "descricao": "BISCOITO TIPO CREAM-CRACKER SEM LACTOSE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "173",
+        "descricao": "BISCOITO TIPO CREAM-CRACKER INTEGRAL",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "174",
+        "descricao": "MAMAO FORMOSA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "175",
+        "descricao": "COXA E SOBRECOXA S/OSSO s/PELE FRANGO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "176",
+        "descricao": "COXA E SOBRECOXA DE FRANGO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "177",
+        "descricao": "PRESUNTO COZIDO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "178",
+        "descricao": "caqui",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "180",
+        "descricao": "PÃO CASEIRO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "181",
+        "descricao": "Couve flor",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "183",
+        "descricao": "BRÓCOLIS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "184",
+        "descricao": "FORMULA INFANTIL APTAMIL AR",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "185",
+        "descricao": "FORMULA INFANTIL 3º SEMESTRE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "187",
+        "descricao": "FÓRMULA INFANTIL SUPRA SOY",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "188",
+        "descricao": "SUSTAGEN",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "189",
+        "descricao": "POLPA DE FRUTA ABACAXI",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "190",
+        "descricao": "POLPA DE FRUTA ACEROLA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "191",
+        "descricao": "Polpa de fruta Goiaba",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "192",
+        "descricao": "Polpa de fruta Manga",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "193",
+        "descricao": "POLPA DE FRUTA UVA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "195",
+        "descricao": "POLPA DE FRUTA MARACUJá",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "197",
+        "descricao": "FORMULA INFANTIL SOJA 2",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "198",
+        "descricao": "FORMULA PREGOMIN",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "199",
+        "descricao": "GELEIA DIET",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "200",
+        "descricao": "POLPA DE FRUTA MORANGO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "201",
+        "descricao": "Polpa de fruta Mamão",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "202",
+        "descricao": "FORMULA INFANTIL PRO 2",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "203",
+        "descricao": "FORMULA INFANTIL PRO 1",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "204",
+        "descricao": "BISCOITO POLVILHO SEM GLÚTEN/LACTOSE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "205",
+        "descricao": "BISCOITO DOCE SEM GLÚTEN/LEITE/OVOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "206",
+        "descricao": "FARINHA DE AVEIA INTEGRAL",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "207",
+        "descricao": "LEITE DE CABRA EM PÓ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "208",
+        "descricao": "LEITE FLUIDO DE VACA SEM LACTOSE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "209",
+        "descricao": "MACARRÃO DE ARROZ FUSILLI DE SEMOLA COM OVOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "210",
+        "descricao": "MACARRÃO SEM GLUTEN/OVOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "211",
+        "descricao": "MARGARINA SEM LACTOSE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "212",
+        "descricao": "MISTURA PARA BOLO SEM AÇÚCAR",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "213",
+        "descricao": "ÓLEO DE GIRASSOL",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "214",
+        "descricao": "LEITE FLUIDO DE VACA SEMIDESNATADO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "215",
+        "descricao": "ADOÇANTE CULINÁRIO FORNO/FOGÃO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "216",
+        "descricao": "CARNE BOVINA MAGRA IQF (iscas)",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "217",
+        "descricao": "Farinha de trigo integral",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "218",
+        "descricao": "FÓRMULA INFANTIL MILNUTRI SOJA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "219",
+        "descricao": "FÓRMULA INFANTIL SUSTAIN JR",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "220",
+        "descricao": "PAO CASEIRO INTEGRAL",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "221",
+        "descricao": "POLPA DE MORANGO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "222",
+        "descricao": "PãO TIPO CACHORRO QUENTE , 80G",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "223",
+        "descricao": "CARNE BOVINA MAGRA ACÉM CUBOS (TRADICIONAL)",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "224",
+        "descricao": "CARNE MOIDA ACÉM (TRADICIONAL)",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "225",
+        "descricao": "ALIMENTO COM SOJA DIVERSOS SABORES",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "227",
+        "descricao": "TORRADA SEM GLúTEN E SEM LACTOSE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "228",
+        "descricao": "IOGUTE ZERO LACTOSE",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "229",
+        "descricao": "ADOçANTE LIQUIDO DE STéVIA",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "230",
+        "descricao": "BISCOITO SEM GLúTEN/LEITE/OVOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "231",
+        "descricao": "COOKIES SEM GLúTEN/LEITE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "233",
+        "descricao": "FóRMULA SE LACTOSE A BASE DE PROTEíNA DE SOJA",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "234",
+        "descricao": "FóRMULA INFANTIL PARA ALERGIA A PROTEíNA DO LEITE",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "237",
+        "descricao": "BISCOITO SALGADO SEM GLÚTEN/LEITE/OVOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "238",
+        "descricao": "CHá DE CAMOMILA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "239",
+        "descricao": "CHá DE ERVA CIDREIRA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "240",
+        "descricao": "CHá DE ERVA DOCE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "243",
+        "descricao": "COMPOSTO LÁCTEO PRÉ-ESCOLAR ACIMA DE 5 ANOS DE IDADE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "244",
+        "descricao": "NAN COMFOR 1",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "245",
+        "descricao": "FÓRMULA APTAMIL PEPTI",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "246",
+        "descricao": "MANTEIGA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "247",
+        "descricao": "REQUEIJãO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "248",
+        "descricao": "NAN COMFOR 2",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "249",
+        "descricao": "FEIJAO PRETO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "250",
+        "descricao": "MACARRAO ARGOLINHA DE SEMOLA COM OVOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "251",
+        "descricao": "MACARRAO CONCHINHA DE SEMOLA COM OVOS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "253",
+        "descricao": "BEBIDA LACTEA SABOR CHOCOLATE",
+        "unidade": "LT",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "255",
+        "descricao": "MORANGO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "256",
+        "descricao": "FÓRMULA INFANTIL NAN AR",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "263",
+        "descricao": "FÓRMULA INFANTIL SEM LACTOSE NAN S.L",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "265",
+        "descricao": "FÓRMULA INFANTIL NAN SOJA 1",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "266",
+        "descricao": "FÓRMULA INFANTIL NAN SOJA 2",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "267",
+        "descricao": "FÓRMULA INFANTIL  NAN ESPESSAR",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "287",
+        "descricao": "FÓRMULA NAN ESPESSAR",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "310",
+        "descricao": "FÓRMULA INFANTIL NAN ESPESSAR",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "329",
+        "descricao": "COCO SECO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "341",
+        "descricao": "COCO VERDE",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "342",
+        "descricao": "COCO AMARELO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "344",
+        "descricao": "ESFIHA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "345",
+        "descricao": "ESFIHA CMEI FRANGO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "347",
+        "descricao": "ESFIHA ESCOLA FRANGO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "348",
+        "descricao": "FíGADO DE FRANGO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "349",
+        "descricao": "BANANA PRATA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "350",
+        "descricao": "MELÃO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "351",
+        "descricao": "ESFIHA CMEI PRESUNTO E QUEIJO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "352",
+        "descricao": "ESFIHA CMEI CARNE MOÍDA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "353",
+        "descricao": "ESFIHA ESCOLA PRESUNTO E QUEIJO",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "354",
+        "descricao": "ESFIHA ESCOLA CARNE MOÍDA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "355",
+        "descricao": "SOY MAIS",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "356",
+        "descricao": "FÓRMULA INFANTIL ALFARÉ",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "357",
+        "descricao": "COMPLEMENTO NUTRICIONAL",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "358",
+        "descricao": "CACAU 100% PURO SEM AçúCAR",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "359",
+        "descricao": "AMENDOIM",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "360",
+        "descricao": "PERU",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "361",
+        "descricao": "GALINHA CAIPIRA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "362",
+        "descricao": "PAMONHA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "363",
+        "descricao": "CAJU",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "364",
+        "descricao": "CARAMBOLA",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "369",
+        "descricao": "ESCARGOT",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    },
+    {
+        "id": "370",
+        "descricao": "NHAME",
+        "unidade": "KG",
+        "Id_sessao": "1",
+        "id_municipio": "2",
+        "especificacoes": "",
+        "ae": "1"
+    }
+]

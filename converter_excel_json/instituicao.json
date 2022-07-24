@@ -1,0 +1,722 @@
+[
+    {
+        "id": "1",
+        "id_administracao": "1",
+        "descricao": "AMOR PERFEITO - CMEI",
+        "endereco": "Avenida Manoel Nogueira Bairro: Jardim Lar Paraná N:1622 CEP: 87306015",
+        "fone": "(44) 3524-1837",
+        "email": "seced.amorperfeito@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "2",
+        "id_administracao": "1",
+        "descricao": "BENTO MOSSURUNGA - E M-EI EF",
+        "endereco": "Rua Teodoro Metchko Bairro:Jardim Copacabana II N:1129 cep:87302340",
+        "fone": "(44) 3525-1572",
+        "email": "seced.bento@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "3",
+        "id_administracao": "1",
+        "descricao": "CASTRO ALVES - E M-EI EF",
+        "endereco": "Rua 6 Bairro:Vila Guarujá N:596 cep:87301643",
+        "fone": "(44) 3523-8324",
+        "email": "seced.castro@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "4",
+        "id_administracao": "1",
+        "descricao": "CIDADE NOVA - E M-EI EF",
+        "endereco": "Rua Prefeito José Antônio dos Santos Bairro:Conjunto Habitacional Antilhas N:1493 cep:87308030",
+        "fone": "(44) 3525-8752",
+        "email": "seced.ecidadenova@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "5",
+        "id_administracao": "1",
+        "descricao": "CONSTANTINO LISBOA DE MEDEIROS - E M-EI EF",
+        "endereco": "Rua Lemos do Prado Bairro:Jardim Lar Paraná N:215 cep:87305270",
+        "fone": "(44) 3524-4466",
+        "email": "seced.constantino@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "6",
+        "id_administracao": "1",
+        "descricao": "PROFESSOR DOMINGOS JOSé DE SOUZA - E M-EI EF",
+        "endereco": "Rua Faisão Bairro:Jardim Tropical I N:496 cep:87310150",
+        "fone": "(44) 3525-0868",
+        "email": "seced.domingos@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "7",
+        "id_administracao": "1",
+        "descricao": "PROFESSORA ERONI MACIEL RIBAS - E M- EF",
+        "endereco": "Rua Curiango Bairro:Conjunto Habitacional Milton Luiz Pereira N:339 cep:87306180",
+        "fone": "(44) 3524-2517",
+        "email": "seced.eroni@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "8",
+        "id_administracao": "1",
+        "descricao": "ESPAçO ABERTO - E M-EIEF M E",
+        "endereco": "Rua São José Bairro:Centro Centro N:2068 cep:87303190",
+        "fone": "(44) 3525-2322",
+        "email": "seced.espacoaberto@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "9",
+        "id_administracao": "1",
+        "descricao": "PROFESSOR ETHANIL B DE ASSIS - E M-EI EF",
+        "endereco": "Rua Vicente Domanski Bairro:Jardim Santa Cruz N:1196 cep:87309570",
+        "fone": "(44) 3525-4457",
+        "email": "seced.ethanil@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "10",
+        "id_administracao": "1",
+        "descricao": "PROFESSOR FLORESTAN FERNANDES - E M-EI EF",
+        "endereco": "Avenida Armelindo Trombini Bairro:Jardim Francisco Ferreira Albuquerque N:4669 cep:87309131",
+        "fone": "(44) 3525-3241",
+        "email": "seced.florestan@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "11",
+        "id_administracao": "1",
+        "descricao": "GURILÂNDIA - E M-EI EF",
+        "endereco": "Rua Edmundo Mercer Bairro:Centro Centro N:1322 cep:87302180",
+        "fone": "(44) 3525-2858",
+        "email": "seced.gurilandia@outlook.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "12",
+        "id_administracao": "1",
+        "descricao": "MANOEL BANDEIRA - E M-EI EF",
+        "endereco": "Rua Manoel Silvério Pereira Bairro:Jardim Alvorada N:151 cep:87308360",
+        "fone": "(44) 3525-3663",
+        "email": "seced.manoelbandeira@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "13",
+        "id_administracao": "1",
+        "descricao": "MANOEL DA NóBREGA - E M-EI EF",
+        "endereco": "RUA -------------- Bairro:VILA ROBERTO BRZEZIENSKI N: cep:87300970",
+        "fone": "(44) 99723-9880",
+        "email": "escolamanoeldanobrega@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "14",
+        "id_administracao": "1",
+        "descricao": "MARIA DO CARMO PEREIRA - E M-EI EF",
+        "endereco": "Rua Nelson Guimarães Monteiro Bairro:Jardim Paulista N:499 cep:87310490",
+        "fone": "98815-4633",
+        "email": "seced.mariadocarmo@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "15",
+        "id_administracao": "1",
+        "descricao": "MáRIO DE MIRANDA QUINTANA - E M-EI EF",
+        "endereco": "Rua Interventor Manoel Ribas Bairro:Centro Centro N:2381 cep:87303180",
+        "fone": "(44) 3525-1643",
+        "email": "seced.marioquintana@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "16",
+        "id_administracao": "1",
+        "descricao": "MONTEIRO LOBATO - E M-EI EF",
+        "endereco": "Rua Mário Castaldelli Bairro:Jardim Lar Paraná N:419 cep:87305340",
+        "fone": "(44) 3524-1727",
+        "email": "seced.monteiro@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "17",
+        "id_administracao": "1",
+        "descricao": "NARCISO SIMãO - E M- C-EI EF",
+        "endereco": "RUA DISTRITO PIQUIRIVAI Bairro:DISTRITO PIQUIRIVAI N:65 cep:87318000",
+        "fone": "(44) 3572-1117",
+        "email": "seced.narcisosimao@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "18",
+        "id_administracao": "1",
+        "descricao": "PROFESSOR NICON KOPKO - E M-EI EF",
+        "endereco": "Rua Célia Simão Broza Bairro:Jardim Modelo N:214 cep:87309416",
+        "fone": "(44) 3525-4015",
+        "email": "seced.nicon@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "19",
+        "id_administracao": "1",
+        "descricao": "PARIGOT DE SOUZA - E M-EI EF",
+        "endereco": "Rua Mato Grosso Bairro:Centro Centro N:749 cep:87300400",
+        "fone": "(44) 3525-1261",
+        "email": "seced.parigot@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "20",
+        "id_administracao": "1",
+        "descricao": "PAULO VI - E M-EI EF",
+        "endereco": "Rua das Lontras Bairro:Jardim Pio XII N:226 cep:87306070",
+        "fone": "(44) 3524-1413",
+        "email": "seced.paulovi@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "21",
+        "id_administracao": "1",
+        "descricao": "URUPêS - E M- EF",
+        "endereco": "Avenida Guilherme de Paula Xavier Bairro:Centro Centro N:2596 cep:87303070",
+        "fone": "(44) 3529-3694",
+        "email": "seced.urupes@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "23",
+        "id_administracao": "1",
+        "descricao": "CAETANO MUNHOZ DA ROCHA - E M C-EI EF",
+        "endereco": "RUA -------------- Bairro:VILA ROBERTO BRZEZIENSKI N: cep:87300970",
+        "fone": "(44) 99955-7233",
+        "email": "seced.caetano@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "24",
+        "id_administracao": "1",
+        "descricao": "CRIANÇA FELIZ - CMEI",
+        "endereco": "Rua 6 Bairro:Vila Guarujá N:490 cep:87301643",
+        "fone": "(44) 3523-4699",
+        "email": "seced.criancafeliz@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "25",
+        "id_administracao": "1",
+        "descricao": "DOCE MAGIA - CMEI",
+        "endereco": "Rua Brilhante Bairro:Residencial Diamante Azul N:115 cep:87310247",
+        "fone": "(44) 3525-4462",
+        "email": "seced.docemagia@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "26",
+        "id_administracao": "1",
+        "descricao": "DR. MILTON LUIZ PEREIRA - CMEI",
+        "endereco": "Rua Pica-pau Bairro:Conjunto Habitacional Milton Luiz Pereira N:135 cep:87306250",
+        "fone": "(44) 3523-7603",
+        "email": "seced.drmilton@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "27",
+        "id_administracao": "1",
+        "descricao": "ILHA BELA - CMEI",
+        "endereco": "Rua Ilha do Mel Bairro:Conjunto Residencial Ilha Bela N:136 cep:87309030",
+        "fone": "(44) 35253432",
+        "email": "seced.ilhabela@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "28",
+        "id_administracao": "1",
+        "descricao": "MENINO JESUS - CMEI",
+        "endereco": "Rua José Francisco da Silva Bairro:Jardim Lopes N:300 cep:87302238",
+        "fone": "(44) 3523-3503",
+        "email": "secedmeninojesus@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "29",
+        "id_administracao": "1",
+        "descricao": "MUNDO ENCANTADO - CMEI",
+        "endereco": "Rua Londrina Bairro:Jardim Curitiba N:249 cep:87303310",
+        "fone": "(44) 3525-4086",
+        "email": "seced.mundoencantado@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "30",
+        "id_administracao": "1",
+        "descricao": "NOSSA SENHORA APARECIDA - CMEI",
+        "endereco": "Rua Rocha Pombo Bairro:Centro Centro N:2595 cep:87303220",
+        "fone": "(44) 3523-0973",
+        "email": "seced.nsaparecida@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "31",
+        "id_administracao": "1",
+        "descricao": "NOSSA SENHORA DE FáTIMA - CMEI",
+        "endereco": "Rua Doutor Hugo Lisot Slomp Bairro:Jardim Paulino N:2630 cep:87306530",
+        "fone": "(44) 3524-4574",
+        "email": "nsfatima.cmei@yahoo.com.br",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "32",
+        "id_administracao": "1",
+        "descricao": "PEQUENOS BRILHANTES - CMEI",
+        "endereco": "Rua Padre João Viecelli Bairro:Jardim Maia N:147 cep:87301285",
+        "fone": "(44) 3523-6762",
+        "email": "seced.pequenosbrilhantes@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "33",
+        "id_administracao": "1",
+        "descricao": "PINGO DE GENTE - CMEI",
+        "endereco": "Rua Faisão Bairro:Jardim Tropical I N:402 cep:87310150",
+        "fone": "(44) 3525-8500",
+        "email": "seced.pingo@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "34",
+        "id_administracao": "1",
+        "descricao": "SAGRADA FAMILIA - CMEI",
+        "endereco": "Rua Brasil Bairro:Centro Centro N:547 cep:87301140",
+        "fone": "(44) 3523-2287",
+        "email": "seced_appsagrada@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "35",
+        "id_administracao": "1",
+        "descricao": "SANTA CRUZ - CMEI",
+        "endereco": "Avenida Prefeito Doutor Horácio Amaral Bairro:Jardim Santa Cruz N:292 cep:87309593",
+        "fone": "(44) 3525-8502",
+        "email": "seced.santacruz@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "36",
+        "id_administracao": "1",
+        "descricao": "SANTO ANTôNIO - CMEI",
+        "endereco": "Rua Prefeito José Antônio dos Santos Bairro:Jardim Cidade Nova N:1535 cep:87308071",
+        "fone": "(44) 3525-3608",
+        "email": "cmeisantoantoniosa@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "37",
+        "id_administracao": "1",
+        "descricao": "SãO JOSé - CMEI",
+        "endereco": "Rua Manoel Silvério Pereira Bairro:Jardim Alvorada N:136 cep:87308360",
+        "fone": "(44) 3525-3577",
+        "email": "seced.saojose@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "38",
+        "id_administracao": "1",
+        "descricao": "SOSSEGO DA MAMãE - CMEI",
+        "endereco": "Rua Laurindo Borges Bairro:Centro Centro N:2310 cep:87303240",
+        "fone": "(44) 3523-4334",
+        "email": "seced.sossegomamae@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "39",
+        "id_administracao": "1",
+        "descricao": "PIONEIRO AFONSO STANIZEWSKI - CMEI",
+        "endereco": "Rua Severo Gomes Bairro:Jardim Batel N:471 cep:87309680",
+        "fone": "(44) 3523-5350",
+        "email": "secedafonsos@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "42",
+        "id_administracao": "1",
+        "descricao": "TANCREDO DE ALMEIDA NEVES - CMEI",
+        "endereco": "Rua dos Cisnes Bairro:Conjunto Habitacional Milton Luiz Pereira N:143 cep:87306200",
+        "fone": "(44) 3523-7707",
+        "email": "seced.tancredoneves@hotmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "43",
+        "id_administracao": "5",
+        "descricao": "APAE - JOSEPHINA W NUNES -  E-EI EF MOD ED ES",
+        "endereco": "Rua Professor Ethanil Bento de Assis Bairro:Jardim Ana Eliza N:461 cep:87303270",
+        "fone": "44032656565",
+        "email": "apae@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "44",
+        "id_administracao": "1",
+        "descricao": "VERA LUCIA C S KARAM - CMEI",
+        "endereco": "Rua Lemos do Prado Bairro:Jardim Lar Paraná N:1046 cep:87305270",
+        "fone": "(44) 3525-4899",
+        "email": "cmeiverakaram@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "46",
+        "id_administracao": "1",
+        "descricao": "SECED - SECRETARIA DA EDUCAçãO",
+        "endereco": "Avenida Comendador Norberto Marcondes Bairro:Centro Centro N:1643 cep:87303100",
+        "fone": "4435994850",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "48",
+        "id_administracao": "1",
+        "descricao": "MUNDO DA CRIANÇA - CMEI",
+        "endereco": "Rua Arquiteto Hamilton Tavela Borges Bairro:Jardim Francisco Ferreira Albuquerque N:364 cep:87309133",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "49",
+        "id_administracao": "1",
+        "descricao": "VIRGILIO DE PAULI - CMEI",
+        "endereco": "RUA PEDRO DA VEIGA Bairro:Residencial Fortunato Perdoncini N:1128 cep:87307022",
+        "fone": "(44) 3525-4255",
+        "email": "cmei.domvirgiliodepauli@gmail.com",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "50",
+        "id_administracao": "3",
+        "descricao": "NOVO HORIZONTE - C E-EF M",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "51",
+        "id_administracao": "3",
+        "descricao": "UNIDADE POLO - C E-EF M",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "52",
+        "id_administracao": "3",
+        "descricao": "VINICIUS DE MORAES - C E-EF M",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "53",
+        "id_administracao": "3",
+        "descricao": "MARECHAL C RONDON - C E  EF M PROFIS",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "54",
+        "id_administracao": "3",
+        "descricao": "DR OSVALDO CRUZ - C E - EF M",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "55",
+        "id_administracao": "3",
+        "descricao": "TANCREDO DE A NEVES - E E DO  C-EF",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "57",
+        "id_administracao": "3",
+        "descricao": "TAPE AVIRU - E E I-EI EF",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "58",
+        "id_administracao": "3",
+        "descricao": "PROFESSORA IVONE S CASTANHARO - C E -EF M",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "59",
+        "id_administracao": "3",
+        "descricao": "PROFESSOR JAELSON BIACIO - C E DO EC -EF M",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "60",
+        "id_administracao": "3",
+        "descricao": "PROFESSOR DARCY JOSE COSTA - C E - EF M",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "61",
+        "id_administracao": "3",
+        "descricao": "CENTRO EST EDUC PROFIS AGRICOLA DE C MOURAO",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "62",
+        "id_administracao": "3",
+        "descricao": "CEEBJA CAMPO MOURAO - EF M",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "63",
+        "id_administracao": "3",
+        "descricao": "ESTADUAL CAMPO MOURAO - C E - EF M PROFIS N",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "64",
+        "id_administracao": "3",
+        "descricao": "ALVORADA- C E-EM",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "65",
+        "id_administracao": "3",
+        "descricao": "PROFIS DOM BOSCO - C E EF M",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "67",
+        "id_administracao": "3",
+        "descricao": "PROFESSOR ANTONIO T OLIVEIRA - C E EF M",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "68",
+        "id_administracao": "3",
+        "descricao": "UNESPAR-UNIVER. ESTA DO PARANA - CAMPUS DE CA",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "69",
+        "id_administracao": "4",
+        "descricao": "COLEGIO ADVENTISTA DE CAMPO MOURAO",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "70",
+        "id_administracao": "4",
+        "descricao": "ESCOLA EDUCATIVA",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "71",
+        "id_administracao": "4",
+        "descricao": "UNOPAR -UNIVERSIDADE PITáGORAS",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "72",
+        "id_administracao": "4",
+        "descricao": "SESC-SERVIÇO SOCIAL DO COMÉRCIO",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "73",
+        "id_administracao": "4",
+        "descricao": "COLÉGIO VICENTINO SANTA CRUZ",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "74",
+        "id_administracao": "4",
+        "descricao": "COLÉGIO ALFA CAMPO MOURÃO",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "75",
+        "id_administracao": "4",
+        "descricao": "CENTRO UNIVERSITÁRIO INTEGRADO",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "76",
+        "id_administracao": "1",
+        "descricao": "PROFESSORA CLARINHA WENCEL CASIMIRO",
+        "endereco": "Rua das Flores Bairro:Conjunto Residencial Piacentini N:831 cep:87310030",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "77",
+        "id_administracao": "4",
+        "descricao": "COLEGIO SIGMA",
+        "endereco": "Rua Araruna Bairro:Centro Centro N:1345 cep:87302210",
+        "fone": "35232580",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    },
+    {
+        "id": "78",
+        "id_administracao": "1",
+        "descricao": "ZACARIAS DE PAULA XAVIER E R M (EEIEF)",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "0"
+    },
+    {
+        "id": "79",
+        "id_administracao": "1",
+        "descricao": "PREFEITURA MUNICIPAL DE CAMPO MOURÃO",
+        "endereco": "",
+        "fone": "",
+        "email": "",
+        "id_municipio": "2",
+        "ativo": "1"
+    }
+]
