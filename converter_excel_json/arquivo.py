@@ -12,9 +12,7 @@ def createJson(planilha):
             if(str(valor)=="nan" or str(valor)=="\\N"):
                 valor=""
             j[col]=valor
-        js.append(j)
- 
-         
+        js.append(j)      
       
     with open(str(grid)+'.json','w',encoding="utf-8") as texto:
         texto.write(json.dumps(js).encode("latin1").decode("unicode_escape"))
